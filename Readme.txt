@@ -11,7 +11,6 @@ Project is converted from Arduino .ino to C++ PlatformIO layout:
   include/       - headers
   src/*.cpp      - supporting sources
   platformio.ini - Teensy 4.1 target
-Original sketch kept as TCA_IMUGNSS_SIM_15_09_2026.ino.bak
 
 Build/upload in VS Code or Cursor:
   1) Install PlatformIO IDE extension
